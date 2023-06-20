@@ -90,7 +90,7 @@ section ul li{
 }
 
 section ul li img{
-  width: 5%;
+  width: 35px;
   height: auto;
   box-sizing: border-box;
   align-items: center;
@@ -126,14 +126,8 @@ padding: 20px;
   justify-content: space-between;
 } 
 .brands{
-  margin-left: 40%;
-  margin-right: 50%;
-width: 50%;
-}
-.brands-p {
-  margin-left: 100px;
-  margin-right: 110px;
-width: 100%;
+text-align: center;
+
 }
 footer p{
   margin-left: 15px;
